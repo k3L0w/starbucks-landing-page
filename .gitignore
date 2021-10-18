@@ -1,0 +1,9 @@
+# for file *.log
+*.log
+
+# for file *.txt
+*.txt
+
+# compilados
+*.so
+*.class
